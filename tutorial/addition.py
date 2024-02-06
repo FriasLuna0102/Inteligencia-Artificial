@@ -12,6 +12,20 @@
 # Pieter Abbeel (pabbeel@cs.berkeley.edu).
 
 
+
+# -------------------------------------------------------------------------
+#                    PROJECT #0 - PYTHON TUTORIAL
+# -------------------------------------------------------------------------
+#   Description:    Introduction to Python Programming & Autograder
+#   Name:           Starlin Jose Frias Luna
+#   ID:             1014-3611
+#   Class:          ICC-362-101
+#   Group:          4371
+#   Cycle:          1850
+#   Date:           4/2/2024
+# --------------------------------------------------------------------------
+
+
 """
 Run python autograder.py
 """

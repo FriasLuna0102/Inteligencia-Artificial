@@ -26,6 +26,19 @@ from __future__ import print_function
 
 import self
 
+# -------------------------------------------------------------------------
+#                    PROJECT #0 - PYTHON TUTORIAL
+# -------------------------------------------------------------------------
+#   Description:    Introduction to Python Programming & Autograder
+#   Name:           Starlin Jose Frias Luna
+#   ID:             1014-3611
+#   Class:          ICC-362-101
+#   Group:          4371
+#   Cycle:          1850
+#   Date:           4/2/2024
+# --------------------------------------------------------------------------
+
+
 fruitPrices = {'apples': 2.00, 'oranges': 1.50, 'pears': 1.75,
                'limes': 0.75, 'strawberries': 1.00}
 

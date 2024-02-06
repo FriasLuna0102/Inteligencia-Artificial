@@ -12,6 +12,21 @@
 # Pieter Abbeel (pabbeel@cs.berkeley.edu).
 
 
+
+# -------------------------------------------------------------------------
+#                    PROJECT #0 - PYTHON TUTORIAL
+# -------------------------------------------------------------------------
+#   Description:    Introduction to Python Programming & Autograder
+#   Name:           Starlin Jose Frias Luna
+#   ID:             1014-3611
+#   Class:          ICC-362-101
+#   Group:          4371
+#   Cycle:          1850
+#   Date:           4/2/2024
+# --------------------------------------------------------------------------
+
+
+
 """
 In search.py, you will implement generic search algorithms which are called by
 Pacman agents (in searchAgents.py).

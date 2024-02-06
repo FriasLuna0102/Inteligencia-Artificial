@@ -24,6 +24,18 @@ from __future__ import print_function
 import shop
 
 
+# -------------------------------------------------------------------------
+#                    PROJECT #0 - PYTHON TUTORIAL
+# -------------------------------------------------------------------------
+#   Description:    Introduction to Python Programming & Autograder
+#   Name:           Starlin Jose Frias Luna
+#   ID:             1014-3611
+#   Class:          ICC-362-101
+#   Group:          4371
+#   Cycle:          1850
+#   Date:           4/2/2024
+# --------------------------------------------------------------------------
+
 def shopSmart(orderList, fruitShops):
     """
         orderList: List of (fruit, numPound) tuples

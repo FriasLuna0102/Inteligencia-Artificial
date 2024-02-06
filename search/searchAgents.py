@@ -12,6 +12,23 @@
 # Pieter Abbeel (pabbeel@cs.berkeley.edu).
 
 
+
+
+# -------------------------------------------------------------------------
+#                    PROJECT #0 - PYTHON TUTORIAL
+# -------------------------------------------------------------------------
+#   Description:    Introduction to Python Programming & Autograder
+#   Name:           Starlin Jose Frias Luna
+#   ID:             1014-3611
+#   Class:          ICC-362-101
+#   Group:          4371
+#   Cycle:          1850
+#   Date:           4/2/2024
+# --------------------------------------------------------------------------
+
+
+
+
 """
 This file contains all of the agents that can be selected to control Pacman.  To
 select an agent, use the '-p' option when running pacman.py.  Arguments can be
