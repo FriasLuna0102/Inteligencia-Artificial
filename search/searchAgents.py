@@ -15,7 +15,7 @@
 
 
 # -------------------------------------------------------------------------
-#                    PROJECT #0 - PYTHON TUTORIAL
+#                    PROJECT #1 - PYTHON Search
 # -------------------------------------------------------------------------
 #   Description:    Introduction to Python Programming & Autograder
 #   Name:           Starlin Jose Frias Luna
@@ -23,7 +23,7 @@
 #   Class:          ICC-362-101
 #   Group:          4371
 #   Cycle:          1850
-#   Date:           4/2/2024
+#   Date:           12/2/2024
 # --------------------------------------------------------------------------
 
 
